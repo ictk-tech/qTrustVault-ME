@@ -22,11 +22,11 @@ M.2 2230 E-key HSM (Hardware Security Module) — `IM20001-MRC04-3`
 
 ### PKCS#11 레퍼런스 가이드 / PKCS#11 Reference Guide / PKCS#11 リファレンスガイド
 
-| 언어 / Language | 문서 (PDF) | 개정 / Revision |
-| --- | --- | --- |
-| 한국어 | [qTrustVault_ME_PKCS11_Reference_Guide_v1.2.pdf](reference-guide/qTrustVault_ME_PKCS11_Reference_Guide_v1.2.pdf) | 1.2 |
-| English | [qTrustVault_ME_PKCS11_Reference_Guide_v1.2_EN.pdf](reference-guide/qTrustVault_ME_PKCS11_Reference_Guide_v1.2_EN.pdf) | 1.2 |
-| 日本語 | [qTrustVault_ME_PKCS11_Reference_Guide_v1.2_JP.pdf](reference-guide/qTrustVault_ME_PKCS11_Reference_Guide_v1.2_JP.pdf) | 1.2 |
+| 언어 / Language | 문서 (PDF) | 개정 / Revision | 상태 / Status |
+| --- | --- | --- | --- |
+| 한국어 | [qtrust-vault-me-pkcs11-reference-guide-kr_v1.2.pdf](reference-guide/qtrust-vault-me-pkcs11-reference-guide-kr_v1.2.pdf) | 1.2 (2026-11-03) | Release |
+| English | [qtrust-vault-me-pkcs11-reference-guide-en_v1.2.pdf](reference-guide/qtrust-vault-me-pkcs11-reference-guide-en_v1.2.pdf) | 1.2 (2026-11-03) | Release |
+| 日本語 | [qtrust-vault-me-pkcs11-reference-guide-jp_v1.2.pdf](reference-guide/qtrust-vault-me-pkcs11-reference-guide-jp_v1.2.pdf) | 1.2 (2026-11-03) | Release |
 
 ### 소프트웨어 / Software / ソフトウェア
 
