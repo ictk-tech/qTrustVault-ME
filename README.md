@@ -20,6 +20,20 @@ M.2 2230 E-key HSM (Hardware Security Module) — `IM20001-MRC04-3`
 > Specifications are subject to change without notice for product improvement.
 > 仕様は製品改良のため予告なく変更されることがあります。
 
+### PKCS#11 레퍼런스 가이드 / PKCS#11 Reference Guide / PKCS#11 リファレンスガイド
+
+| 언어 / Language | 문서 (PDF) | 개정 / Revision |
+| --- | --- | --- |
+| 한국어 | [qTrustVault_ME_PKCS11_Reference_Guide_v1.2.pdf](reference-guide/qTrustVault_ME_PKCS11_Reference_Guide_v1.2.pdf) | 1.2 |
+| English | [qTrustVault_ME_PKCS11_Reference_Guide_v1.2_EN.pdf](reference-guide/qTrustVault_ME_PKCS11_Reference_Guide_v1.2_EN.pdf) | 1.2 |
+| 日本語 | [qTrustVault_ME_PKCS11_Reference_Guide_v1.2_JP.pdf](reference-guide/qTrustVault_ME_PKCS11_Reference_Guide_v1.2_JP.pdf) | 1.2 |
+
+### 소프트웨어 / Software / ソフトウェア
+
+PKCS#11 라이브러리(Windows x64·x86, Linux x86_64)와 클라이언트 프로그램은 [Releases](../../releases/latest) 에서 받습니다.  
+PKCS#11 libraries (Windows x64/x86, Linux x86_64) and the client program are available from [Releases](../../releases/latest).  
+PKCS#11 ライブラリ(Windows x64/x86、Linux x86_64)とクライアントプログラムは [Releases](../../releases/latest) から入手できます。
+
 ---
 
 © ICTK Co., Ltd. All rights reserved.
