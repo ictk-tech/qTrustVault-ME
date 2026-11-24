@@ -24,9 +24,19 @@ M.2 2230 E-key HSM (Hardware Security Module) — `IM20001-MRC04-3`
 
 | 언어 / Language | 문서 (PDF) | 개정 / Revision | 상태 / Status |
 | --- | --- | --- | --- |
-| 한국어 | [qtrust-vault-me-pkcs11-reference-guide-kr_v1.2.pdf](reference-guide/qtrust-vault-me-pkcs11-reference-guide-kr_v1.2.pdf) | 1.2 (2026-11-03) | Release |
-| English | [qtrust-vault-me-pkcs11-reference-guide-en_v1.2.pdf](reference-guide/qtrust-vault-me-pkcs11-reference-guide-en_v1.2.pdf) | 1.2 (2026-11-03) | Release |
-| 日本語 | [qtrust-vault-me-pkcs11-reference-guide-jp_v1.2.pdf](reference-guide/qtrust-vault-me-pkcs11-reference-guide-jp_v1.2.pdf) | 1.2 (2026-11-03) | Release |
+| 한국어 | [qtrust-vault-me-pkcs11-reference-guide-kr_v1.3.pdf](reference-guide/qtrust-vault-me-pkcs11-reference-guide-kr_v1.3.pdf) | 1.3 (2026-11-24) | Release |
+| English | [qtrust-vault-me-pkcs11-reference-guide-en_v1.3.pdf](reference-guide/qtrust-vault-me-pkcs11-reference-guide-en_v1.3.pdf) | 1.3 (2026-11-24) | Release |
+| 日本語 | [qtrust-vault-me-pkcs11-reference-guide-jp_v1.3.pdf](reference-guide/qtrust-vault-me-pkcs11-reference-guide-jp_v1.3.pdf) | 1.3 (2026-11-24) | Release |
+
+### 오픈소스 고지 / Open Source Notices / オープンソース通知
+
+제품에 포함된 제3자 소프트웨어의 저작권 표시와 라이선스 조건입니다 — 모듈 펌웨어, 부트로더, PKCS#11 라이브러리, 클라이언트 프로그램 전부를 다룹니다.
+Copyright notices and licence terms for the third-party software in this product — covering the module firmware, the bootloader, the PKCS#11 library and the client program.
+製品に含まれるサードパーティソフトウェアの著作権表示とライセンス条件です — モジュールファームウェア、ブートローダ、PKCS#11 ライブラリ、クライアントプログラムのすべてを対象とします。
+
+| 문서 (PDF) | 개정 / Revision | 상태 / Status |
+| --- | --- | --- |
+| [qtrust-vault-me-oss-notices_v1.1.pdf](oss-notices/qtrust-vault-me-oss-notices_v1.1.pdf) | 1.1 (2026-11-24) | Release |
 
 ### 소프트웨어 / Software / ソフトウェア
 
